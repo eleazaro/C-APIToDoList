@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.cache
+*.pdb
+*.obj
+*.log
+
+# Build e pacotes
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.app/
+*.so
+*.dylib
+
+# Arquivos do NuGet
+*.nupkg
+packages/
+project.lock.json
+
+# Configurações de usuário
+*.userprefs
+*.psess
+*.sln.ide
+
+# Configurações do Rider e ReSharper
+.idea/
+*.DotSettings.user
+
+# Configurações locais do Docker
+docker-compose.override.yml
