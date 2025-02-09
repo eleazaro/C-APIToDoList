@@ -7,44 +7,44 @@
       "RelativeMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|c:\\users\\eleazaro\\documents\\git\\c#apitodolist\\todolist\\todolist\\application\\services\\tarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\application\\services\\tarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|c:\\users\\eleazaro\\documents\\git\\c#apitodolist\\todolist\\todolist\\infrastructure\\repositories\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\infrastructure\\repositories\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|c:\\users\\eleazaro\\documents\\git\\c#apitodolist\\todolist\\todolist\\domain\\entities\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\domain\\entities\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|c:\\users\\eleazaro\\documents\\git\\c#apitodolist\\todolist\\todolist\\domain\\repositories\\itarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\domain\\repositories\\itarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|c:\\users\\eleazaro\\documents\\git\\c#apitodolist\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|c:\\users\\eleazaro\\documents\\git\\c#apitodolist\\todolist\\todolist\\infrastructure\\data\\configuration\\tarefaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\infrastructure\\data\\configuration\\tarefaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|c:\\users\\eleazaro\\documents\\git\\c#apitodolist\\todolist\\todolist\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|c:\\users\\eleazaro\\documents\\git\\c#apitodolist\\todolist\\todolist\\infrastructure\\data\\configuration\\tarefaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\infrastructure\\data\\configuration\\tarefaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|c:\\users\\eleazaro\\documents\\git\\c#apitodolist\\todolist\\todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|c:\\users\\eleazaro\\documents\\git\\c#apitodolist\\todolist\\todolist\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|c:\\users\\eleazaro\\documents\\git\\c#apitodolist\\todolist\\todolist\\infrastructure\\repositories\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\infrastructure\\repositories\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|c:\\users\\eleazaro\\documents\\git\\c#apitodolist\\todolist\\todolist\\migrations\\20250206204627_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\migrations\\20250206204627_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|c:\\users\\eleazaro\\documents\\git\\c#apitodolist\\todolist\\todolist\\domain\\entities\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\domain\\entities\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|c:\\users\\eleazaro\\documents\\git\\c#apitodolist\\todolist\\todolist\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|c:\\users\\eleazaro\\documents\\git\\c#apitodolist\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|c:\\users\\eleazaro\\documents\\git\\c#apitodolist\\todolist\\todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|c:\\users\\eleazaro\\documents\\git\\c#apitodolist\\todolist\\todolist\\application\\services\\tarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFA10B5-A6C3-4375-A134-1EC129C17D0E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\application\\services\\tarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,33 +62,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Eleazaro\\Documents\\git\\C#APIToDoList\\ToDoList\\ToDoList\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ToDoList\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Eleazaro\\Documents\\git\\C#APIToDoList\\ToDoList\\ToDoList\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ToDoList\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAUwCEAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-06T20:58:37.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "20250206204627_InitialMigration.cs",
               "DocumentMoniker": "C:\\Users\\Eleazaro\\Documents\\git\\C#APIToDoList\\ToDoList\\ToDoList\\Migrations\\20250206204627_InitialMigration.cs",
               "RelativeDocumentMoniker": "ToDoList\\Migrations\\20250206204627_InitialMigration.cs",
               "ToolTip": "C:\\Users\\Eleazaro\\Documents\\git\\C#APIToDoList\\ToDoList\\ToDoList\\Migrations\\20250206204627_InitialMigration.cs",
               "RelativeToolTip": "ToDoList\\Migrations\\20250206204627_InitialMigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T20:46:27.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T16:55:54.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Eleazaro\\Documents\\git\\C#APIToDoList\\ToDoList\\ToDoList\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Eleazaro\\Documents\\git\\C#APIToDoList\\ToDoList\\ToDoList\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ToDoList\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:55:50.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TarefaConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Eleazaro\\Documents\\git\\C#APIToDoList\\ToDoList\\ToDoList\\Infrastructure\\Data\\Configuration\\TarefaConfiguration.cs",
               "RelativeDocumentMoniker": "ToDoList\\Infrastructure\\Data\\Configuration\\TarefaConfiguration.cs",
@@ -96,21 +94,7 @@
               "RelativeToolTip": "ToDoList\\Infrastructure\\Data\\Configuration\\TarefaConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T20:27:12.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Eleazaro\\Documents\\git\\C#APIToDoList\\ToDoList\\ToDoList\\appsettings.json",
-              "RelativeDocumentMoniker": "ToDoList\\appsettings.json",
-              "ToolTip": "C:\\Users\\Eleazaro\\Documents\\git\\C#APIToDoList\\ToDoList\\ToDoList\\appsettings.json",
-              "RelativeToolTip": "ToDoList\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-06T20:10:10.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T20:27:12.159Z"
             },
             {
               "$type": "Document",
@@ -120,40 +104,38 @@
               "RelativeDocumentMoniker": "ToDoList\\Controllers\\TarefaController.cs",
               "ToolTip": "C:\\Users\\Eleazaro\\Documents\\git\\C#APIToDoList\\ToDoList\\ToDoList\\Controllers\\TarefaController.cs",
               "RelativeToolTip": "ToDoList\\Controllers\\TarefaController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAAAEgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T20:07:14.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Eleazaro\\Documents\\git\\C#APIToDoList\\ToDoList\\ToDoList\\Program.cs",
               "RelativeDocumentMoniker": "ToDoList\\Program.cs",
               "ToolTip": "C:\\Users\\Eleazaro\\Documents\\git\\C#APIToDoList\\ToDoList\\ToDoList\\Program.cs",
               "RelativeToolTip": "ToDoList\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T20:05:20.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T20:05:20.804Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "TarefaRepository.cs",
               "DocumentMoniker": "C:\\Users\\Eleazaro\\Documents\\git\\C#APIToDoList\\ToDoList\\ToDoList\\Infrastructure\\Repositories\\TarefaRepository.cs",
               "RelativeDocumentMoniker": "ToDoList\\Infrastructure\\Repositories\\TarefaRepository.cs",
               "ToolTip": "C:\\Users\\Eleazaro\\Documents\\git\\C#APIToDoList\\ToDoList\\ToDoList\\Infrastructure\\Repositories\\TarefaRepository.cs",
               "RelativeToolTip": "ToDoList\\Infrastructure\\Repositories\\TarefaRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAywBkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T19:19:43.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T19:19:43.31Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Eleazaro\\Documents\\git\\C#APIToDoList\\ToDoList\\ToDoList\\Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ToDoList\\Infrastructure\\Data\\AppDbContext.cs",
@@ -161,25 +143,11 @@
               "RelativeToolTip": "ToDoList\\Infrastructure\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T19:18:47.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T19:18:47.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TarefaService.cs",
-              "DocumentMoniker": "C:\\Users\\Eleazaro\\Documents\\git\\C#APIToDoList\\ToDoList\\ToDoList\\Application\\Services\\TarefaService.cs",
-              "RelativeDocumentMoniker": "ToDoList\\Application\\Services\\TarefaService.cs",
-              "ToolTip": "C:\\Users\\Eleazaro\\Documents\\git\\C#APIToDoList\\ToDoList\\ToDoList\\Application\\Services\\TarefaService.cs",
-              "RelativeToolTip": "ToDoList\\Application\\Services\\TarefaService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAtwBUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T19:17:43.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ITarefaRepository.cs",
               "DocumentMoniker": "C:\\Users\\Eleazaro\\Documents\\git\\C#APIToDoList\\ToDoList\\ToDoList\\Domain\\Repositories\\ITarefaRepository.cs",
               "RelativeDocumentMoniker": "ToDoList\\Domain\\Repositories\\ITarefaRepository.cs",
@@ -187,12 +155,11 @@
               "RelativeToolTip": "ToDoList\\Domain\\Repositories\\ITarefaRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T19:16:33.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T19:16:33.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "Tarefa.cs",
               "DocumentMoniker": "C:\\Users\\Eleazaro\\Documents\\git\\C#APIToDoList\\ToDoList\\ToDoList\\Domain\\Entities\\Tarefa.cs",
               "RelativeDocumentMoniker": "ToDoList\\Domain\\Entities\\Tarefa.cs",
@@ -200,8 +167,31 @@
               "RelativeToolTip": "ToDoList\\Domain\\Entities\\Tarefa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T19:14:52.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T19:14:52.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TarefaService.cs",
+              "DocumentMoniker": "C:\\Users\\Eleazaro\\Documents\\git\\C#APIToDoList\\ToDoList\\ToDoList\\Application\\Services\\TarefaService.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Application\\Services\\TarefaService.cs",
+              "ToolTip": "C:\\Users\\Eleazaro\\Documents\\git\\C#APIToDoList\\ToDoList\\ToDoList\\Application\\Services\\TarefaService.cs",
+              "RelativeToolTip": "ToDoList\\Application\\Services\\TarefaService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:17:43.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Eleazaro\\Documents\\git\\C#APIToDoList\\ToDoList\\ToDoList\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoList\\appsettings.json",
+              "ToolTip": "C:\\Users\\Eleazaro\\Documents\\git\\C#APIToDoList\\ToDoList\\ToDoList\\appsettings.json",
+              "RelativeToolTip": "ToDoList\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T20:10:10.219Z"
             }
           ]
         }

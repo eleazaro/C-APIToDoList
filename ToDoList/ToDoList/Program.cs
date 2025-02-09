@@ -13,13 +13,25 @@ builder.Services.AddControllers();
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-//Registros
+// Registros
 builder.Services.AddScoped<TarefaService>();
 builder.Services.AddScoped<ITarefaRepository, TarefaRepository>();
 
 // Configuração do Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+// Configuração do CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAllOrigins",
+        builder =>
+        {
+            builder.AllowAnyOrigin() // Permite qualquer origem (não recomendado para produção)
+                   .AllowAnyMethod() // Permite qualquer método (GET, POST, etc.)
+                   .AllowAnyHeader(); // Permite qualquer cabeçalho
+        });
+});
 
 var app = builder.Build();
 
@@ -30,7 +42,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+// app.UseHttpsRedirection(); // Comente se estiver testando localmente sem HTTPS
+
+// Use CORS
+app.UseCors("AllowAllOrigins");
+
 app.UseAuthorization();
 app.MapControllers();
 
